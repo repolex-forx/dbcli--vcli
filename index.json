@@ -1,0 +1,11 @@
+{
+  "org": "dbcli",
+  "repo": "vcli",
+  "versions": [
+    {
+      "commit": "1e8b34141a3223d157c661f70f8beb4649b4d37b",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:13:43.971993+00:00"
+    }
+  ]
+}
